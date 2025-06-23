@@ -1,0 +1,27 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "number-guessing-game": "./dist/cli.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "node dist/cli.js start",
+    "postinstall": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.13.4",
+    "cli-table3": "^0.6.5",
+    "commander": "^13.1.0",
+    "moment": "^2.30.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "winston": "^3.17.0"
+  }
+}
