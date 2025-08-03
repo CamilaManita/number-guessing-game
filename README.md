@@ -86,6 +86,3 @@ Puedes modificar el juego editando `src/cli.ts`:
 - Modificar los mensajes
 - Agregar nuevas características
 
-## 📄 Licencia
-
-ISC 
