@@ -2,6 +2,8 @@
 
 Un juego de adivinanza de números interactivo desarrollado en TypeScript para la línea de comandos.
 
+> 📚 **Proyecto basado en**: [Number Guessing Game - roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+
 ## 🚀 Características
 
 - Juego interactivo de adivinanza de números
